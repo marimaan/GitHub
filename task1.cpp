@@ -10,7 +10,7 @@ namespace MathOperations {
 
 namespace TextOperations {
     std::string concat(std::string str1, std::string str2) {
-        return str1 + str2;
+        return str1 + " " + str2;
     }
 }
 
